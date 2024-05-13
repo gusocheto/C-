@@ -1,0 +1,14 @@
+D:\GOOSE THING ONLY\SoftSeltsam\03. Shoe Store_Skeleton_6.0\obj\Debug\net6.0\ShoeStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\GOOSE THING ONLY\SoftSeltsam\03. Shoe Store_Skeleton_6.0\obj\Debug\net6.0\ShoeStore.AssemblyInfoInputs.cache
+D:\GOOSE THING ONLY\SoftSeltsam\03. Shoe Store_Skeleton_6.0\obj\Debug\net6.0\ShoeStore.AssemblyInfo.cs
+D:\GOOSE THING ONLY\SoftSeltsam\03. Shoe Store_Skeleton_6.0\obj\Debug\net6.0\ShoeStore.csproj.CoreCompileInputs.cache
+D:\GOOSE THING ONLY\SoftSeltsam\03. Shoe Store_Skeleton_6.0\bin\Debug\net6.0\ShoeStore.exe
+D:\GOOSE THING ONLY\SoftSeltsam\03. Shoe Store_Skeleton_6.0\bin\Debug\net6.0\ShoeStore.deps.json
+D:\GOOSE THING ONLY\SoftSeltsam\03. Shoe Store_Skeleton_6.0\bin\Debug\net6.0\ShoeStore.runtimeconfig.json
+D:\GOOSE THING ONLY\SoftSeltsam\03. Shoe Store_Skeleton_6.0\bin\Debug\net6.0\ShoeStore.dll
+D:\GOOSE THING ONLY\SoftSeltsam\03. Shoe Store_Skeleton_6.0\bin\Debug\net6.0\ShoeStore.pdb
+D:\GOOSE THING ONLY\SoftSeltsam\03. Shoe Store_Skeleton_6.0\obj\Debug\net6.0\ShoeStore.dll
+D:\GOOSE THING ONLY\SoftSeltsam\03. Shoe Store_Skeleton_6.0\obj\Debug\net6.0\refint\ShoeStore.dll
+D:\GOOSE THING ONLY\SoftSeltsam\03. Shoe Store_Skeleton_6.0\obj\Debug\net6.0\ShoeStore.pdb
+D:\GOOSE THING ONLY\SoftSeltsam\03. Shoe Store_Skeleton_6.0\obj\Debug\net6.0\ShoeStore.genruntimeconfig.cache
+D:\GOOSE THING ONLY\SoftSeltsam\03. Shoe Store_Skeleton_6.0\obj\Debug\net6.0\ref\ShoeStore.dll
